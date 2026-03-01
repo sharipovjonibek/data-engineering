@@ -4,7 +4,14 @@ A simple repo for tracking notes, resources, and projects as I learn data engine
 
 ## Table of Contents
 
+- [Resources](#resources)
 - [Notes & Articles](#notes--articles)
+
+## Resources
+
+- [Master Apache Spark Programming in Python (PySpark) Using Databricks](https://www.udemy.com/course/apache-spark-programming-in-python-for-beginners/)
+- [Databek: SQL Intensive (part 1)](https://medium.com/databek/databek-sql-intensive-1-hafta-fa53dadecefe)
+- [SQL Server tutorial](https://www.youtube.com/playlist?list=PL08903FB7ACA1C2FB)
 
 ## Notes & Articles
 
